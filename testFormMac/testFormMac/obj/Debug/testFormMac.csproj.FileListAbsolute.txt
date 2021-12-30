@@ -1,0 +1,16 @@
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/bin/Debug/Mac Form Test.exe
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/bin/Debug/Mac Form Test.pdb
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/actool/_PartialAppManifest.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/_ProcessedContentPath.items
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/testFormMac.csproj.AssemblyReference.cache
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/testFormMac.csproj.CoreCompileInputs.cache
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/Mac Form Test.exe
+/Users/adwitheyabenbi/Documents/VisualStudioTestProjects/MacFormsWithCocoa/testFormMac/testFormMac/obj/Debug/Mac Form Test.pdb
